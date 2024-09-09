@@ -1,0 +1,11 @@
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.ViewModels\bin\Debug\net8.0\ProEShop.ViewModels.deps.json
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.ViewModels\bin\Debug\net8.0\ProEShop.ViewModels.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.ViewModels\bin\Debug\net8.0\ProEShop.ViewModels.pdb
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.ViewModels\obj\Debug\net8.0\ProEShop.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.ViewModels\obj\Debug\net8.0\ProEShop.ViewModels.AssemblyInfoInputs.cache
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.ViewModels\obj\Debug\net8.0\ProEShop.ViewModels.AssemblyInfo.cs
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.ViewModels\obj\Debug\net8.0\ProEShop.ViewModels.csproj.CoreCompileInputs.cache
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.ViewModels\obj\Debug\net8.0\ProEShop.ViewModels.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.ViewModels\obj\Debug\net8.0\refint\ProEShop.ViewModels.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.ViewModels\obj\Debug\net8.0\ProEShop.ViewModels.pdb
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.ViewModels\obj\Debug\net8.0\ref\ProEShop.ViewModels.dll

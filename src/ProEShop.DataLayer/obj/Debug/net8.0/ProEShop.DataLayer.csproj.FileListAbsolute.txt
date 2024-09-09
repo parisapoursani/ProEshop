@@ -1,0 +1,17 @@
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\bin\Debug\net8.0\ProEShop.DataLayer.deps.json
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\bin\Debug\net8.0\ProEShop.DataLayer.runtimeconfig.json
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\bin\Debug\net8.0\ProEShop.DataLayer.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\bin\Debug\net8.0\ProEShop.DataLayer.pdb
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\bin\Debug\net8.0\ProEShop.Entities.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\bin\Debug\net8.0\ProEShop.Entities.pdb
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\obj\Debug\net8.0\ProEShop.DataLayer.csproj.AssemblyReference.cache
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\obj\Debug\net8.0\ProEShop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\obj\Debug\net8.0\ProEShop.DataLayer.AssemblyInfoInputs.cache
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\obj\Debug\net8.0\ProEShop.DataLayer.AssemblyInfo.cs
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\obj\Debug\net8.0\ProEShop.DataLayer.csproj.CoreCompileInputs.cache
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\obj\Debug\net8.0\ProEShop.E37DBE75.Up2Date
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\obj\Debug\net8.0\ProEShop.DataLayer.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\obj\Debug\net8.0\refint\ProEShop.DataLayer.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\obj\Debug\net8.0\ProEShop.DataLayer.pdb
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\obj\Debug\net8.0\ProEShop.DataLayer.genruntimeconfig.cache
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.DataLayer\obj\Debug\net8.0\ref\ProEShop.DataLayer.dll

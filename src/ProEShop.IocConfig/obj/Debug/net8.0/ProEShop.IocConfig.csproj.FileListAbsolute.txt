@@ -1,0 +1,17 @@
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\bin\Debug\net8.0\ProEShop.IocConfig.deps.json
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\bin\Debug\net8.0\ProEShop.IocConfig.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\bin\Debug\net8.0\ProEShop.IocConfig.pdb
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\bin\Debug\net8.0\ProEShop.DataLayer.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\bin\Debug\net8.0\ProEShop.Entities.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\bin\Debug\net8.0\ProEShop.DataLayer.pdb
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\bin\Debug\net8.0\ProEShop.Entities.pdb
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\obj\Debug\net8.0\ProEShop.IocConfig.csproj.AssemblyReference.cache
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\obj\Debug\net8.0\ProEShop.IocConfig.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\obj\Debug\net8.0\ProEShop.IocConfig.AssemblyInfoInputs.cache
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\obj\Debug\net8.0\ProEShop.IocConfig.AssemblyInfo.cs
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\obj\Debug\net8.0\ProEShop.IocConfig.csproj.CoreCompileInputs.cache
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\obj\Debug\net8.0\ProEShop.A0BEEE1D.Up2Date
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\obj\Debug\net8.0\ProEShop.IocConfig.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\obj\Debug\net8.0\refint\ProEShop.IocConfig.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\obj\Debug\net8.0\ProEShop.IocConfig.pdb
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.IocConfig\obj\Debug\net8.0\ref\ProEShop.IocConfig.dll

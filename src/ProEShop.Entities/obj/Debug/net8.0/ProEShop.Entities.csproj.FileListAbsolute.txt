@@ -1,0 +1,11 @@
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.Entities\bin\Debug\net8.0\ProEShop.Entities.deps.json
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.Entities\bin\Debug\net8.0\ProEShop.Entities.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.Entities\bin\Debug\net8.0\ProEShop.Entities.pdb
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.Entities\obj\Debug\net8.0\ProEShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.Entities\obj\Debug\net8.0\ProEShop.Entities.AssemblyInfoInputs.cache
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.Entities\obj\Debug\net8.0\ProEShop.Entities.AssemblyInfo.cs
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.Entities\obj\Debug\net8.0\ProEShop.Entities.csproj.CoreCompileInputs.cache
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.Entities\obj\Debug\net8.0\ProEShop.Entities.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.Entities\obj\Debug\net8.0\refint\ProEShop.Entities.dll
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.Entities\obj\Debug\net8.0\ProEShop.Entities.pdb
+D:\Camera\Website Design\MyProject\12.ProEshop\ProEShop\src\ProEShop.Entities\obj\Debug\net8.0\ref\ProEShop.Entities.dll

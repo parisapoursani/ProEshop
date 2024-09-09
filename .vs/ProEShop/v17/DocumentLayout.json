@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABBF43-3AFA-40CC-B8EC-75BD550C9F25}|src\\ProEShop.IocConfig\\ProEShop.IocConfig.csproj|d:\\camera\\website design\\myproject\\12.proeshop\\proeshop\\src\\proeshop.iocconfig\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABBF43-3AFA-40CC-B8EC-75BD550C9F25}|src\\ProEShop.IocConfig\\ProEShop.IocConfig.csproj|solutionrelative:src\\proeshop.iocconfig\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE51E6B8-100D-4653-8B4C-4B6D25D1FDB3}|src\\ProEShop.DataLayer\\ProEShop.DataLayer.csproj|d:\\camera\\website design\\myproject\\12.proeshop\\proeshop\\src\\proeshop.datalayer\\migrations\\20240908051836_initializedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE51E6B8-100D-4653-8B4C-4B6D25D1FDB3}|src\\ProEShop.DataLayer\\ProEShop.DataLayer.csproj|solutionrelative:src\\proeshop.datalayer\\migrations\\20240908051836_initializedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97831326-CABF-4C3D-B575-BE89B22E90EC}|src\\ProEShop.Web\\ProEShop.Web.csproj|d:\\camera\\website design\\myproject\\12.proeshop\\proeshop\\src\\proeshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97831326-CABF-4C3D-B575-BE89B22E90EC}|src\\ProEShop.Web\\ProEShop.Web.csproj|solutionrelative:src\\proeshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE51E6B8-100D-4653-8B4C-4B6D25D1FDB3}|src\\ProEShop.DataLayer\\ProEShop.DataLayer.csproj|d:\\camera\\website design\\myproject\\12.proeshop\\proeshop\\src\\proeshop.datalayer\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE51E6B8-100D-4653-8B4C-4B6D25D1FDB3}|src\\ProEShop.DataLayer\\ProEShop.DataLayer.csproj|solutionrelative:src\\proeshop.datalayer\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE51E6B8-100D-4653-8B4C-4B6D25D1FDB3}|src\\ProEShop.DataLayer\\ProEShop.DataLayer.csproj|d:\\camera\\website design\\myproject\\12.proeshop\\proeshop\\src\\proeshop.datalayer\\proeshop.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE51E6B8-100D-4653-8B4C-4B6D25D1FDB3}|src\\ProEShop.DataLayer\\ProEShop.DataLayer.csproj|solutionrelative:src\\proeshop.datalayer\\proeshop.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97831326-CABF-4C3D-B575-BE89B22E90EC}|src\\ProEShop.Web\\ProEShop.Web.csproj|d:\\camera\\website design\\myproject\\12.proeshop\\proeshop\\src\\proeshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97831326-CABF-4C3D-B575-BE89B22E90EC}|src\\ProEShop.Web\\ProEShop.Web.csproj|solutionrelative:src\\proeshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240908051836_InitializeDatabase.cs",
+              "DocumentMoniker": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.DataLayer\\Migrations\\20240908051836_InitializeDatabase.cs",
+              "RelativeDocumentMoniker": "src\\ProEShop.DataLayer\\Migrations\\20240908051836_InitializeDatabase.cs",
+              "ToolTip": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.DataLayer\\Migrations\\20240908051836_InitializeDatabase.cs",
+              "RelativeToolTip": "src\\ProEShop.DataLayer\\Migrations\\20240908051836_InitializeDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:18:37.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterServices.cs",
+              "DocumentMoniker": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.IocConfig\\RegisterServices.cs",
+              "RelativeDocumentMoniker": "src\\ProEShop.IocConfig\\RegisterServices.cs",
+              "ToolTip": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.IocConfig\\RegisterServices.cs",
+              "RelativeToolTip": "src\\ProEShop.IocConfig\\RegisterServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:16:24.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\ProEShop.Web\\appsettings.json",
+              "ToolTip": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.Web\\appsettings.json",
+              "RelativeToolTip": "src\\ProEShop.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T04:57:44.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProEShop.DataLayer",
+              "DocumentMoniker": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.DataLayer\\ProEShop.DataLayer.csproj",
+              "RelativeDocumentMoniker": "src\\ProEShop.DataLayer\\ProEShop.DataLayer.csproj",
+              "ToolTip": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.DataLayer\\ProEShop.DataLayer.csproj",
+              "RelativeToolTip": "src\\ProEShop.DataLayer\\ProEShop.DataLayer.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T11:02:29.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ProEShop.Web\\Program.cs",
+              "ToolTip": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.Web\\Program.cs",
+              "RelativeToolTip": "src\\ProEShop.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:57:39.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.DataLayer\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\ProEShop.DataLayer\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Camera\\Website Design\\MyProject\\12.ProEshop\\ProEShop\\src\\ProEShop.DataLayer\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\ProEShop.DataLayer\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:35:46.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 12,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
