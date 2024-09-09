@@ -13,6 +13,7 @@ public static class RegisterServices
             options.UseSqlServer("Server=.;Initial Catalog=ProEShop;Trusted_Connection=True;MultipleActiveResultSets=True;TrustServerCertificate=True;Encrypt=false");
         });
         return services;
+        ///
     }
 }
 
